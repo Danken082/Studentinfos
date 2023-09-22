@@ -1,0 +1,1144 @@
+CRITICAL - 2023-09-21 07:45:21 --> The namespace delimiter is a backslash (\), not a slash (/). Route handler: "\App\Controllers\StudentController/student"
+in SYSTEMPATH\Router\Router.php on line 477.
+ 1 SYSTEMPATH\Router\Router.php(477): CodeIgniter\Router\Exceptions\RouterException::forInvalidControllerName('\\App\\Controllers\\StudentController/student')
+ 2 SYSTEMPATH\Router\Router.php(184): CodeIgniter\Router\Router->checkRoutes('studs')
+ 3 SYSTEMPATH\CodeIgniter.php(800): CodeIgniter\Router\Router->handle('studs')
+ 4 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:19:22 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:20:32 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:21:08 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:21:39 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:22:14 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:22:16 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:22:16 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:22:23 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:24:07 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:24:08 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:24:08 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:24:08 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:24:45 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:24:46 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:25:24 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:25:24 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:25:30 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:26:23 --> Undefined variable $stuudent
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stuudent', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(20): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:26:42 --> Call to a member function findAll() on null
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:28:00 --> Class "App\Models\StudentModel" not found
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:28:12 --> Class "App\Models\StudentModel" not found
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:28:14 --> Class "App\Models\StudentModel" not found
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:28:14 --> Class "App\Models\StudentModel" not found
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:28:15 --> Class "App\Models\StudentModel" not found
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:28:15 --> Class "App\Models\StudentModel" not found
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:30:33 --> Class "App\Controllers\StudentModel" not found
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:30:48 --> Class "App\Models\s" not found
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:31:20 --> Class "App\Models\s" not found
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:31:21 --> Class "App\Models\s" not found
+in APPPATH\Controllers\StudentController.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:33:00 --> Undefined variable $stuudent
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stuudent', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(21): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:33:22 --> Undefined variable $stuudent
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stuudent', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(21): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:33:23 --> Undefined variable $stuudent
+in APPPATH\Views\students.php on line 11.
+ 1 APPPATH\Views\students.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stuudent', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 11)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(21): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:33:40 --> Undefined variable $stud
+in APPPATH\Views\students.php on line 14.
+ 1 APPPATH\Views\students.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(21): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:34:06 --> Undefined variable $stud
+in APPPATH\Views\students.php on line 14.
+ 1 APPPATH\Views\students.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(21): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:34:07 --> Undefined variable $stud
+in APPPATH\Views\students.php on line 14.
+ 1 APPPATH\Views\students.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 14)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(21): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:34:17 --> Undefined variable $stud
+in APPPATH\Views\students.php on line 13.
+ 1 APPPATH\Views\students.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 13)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(21): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:34:23 --> Undefined variable $stud
+in APPPATH\Views\students.php on line 15.
+ 1 APPPATH\Views\students.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stud', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 15)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(21): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 08:34:42 --> syntax error, unexpected end of file
+in APPPATH\Views\students.php on line 28.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 3 APPPATH\Controllers\StudentController.php(21): view('students', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+ERROR - 2023-09-21 09:08:10 --> mysqli_sql_exception: Table 'studentdb.table_student' doesn't exist in C:\laragon\www\Studentfile\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Studentfile\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\Studentfile\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\Studentfile\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\Studentfile\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\Studentfile\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Studentfile\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\Studentfile\app\Controllers\StudentController.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\Studentfile\system\CodeIgniter.php(919): App\Controllers\StudentController->student()
+#8 C:\laragon\www\Studentfile\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+#9 C:\laragon\www\Studentfile\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\Studentfile\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\laragon\www\Studentfile\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#12 {main}
+CRITICAL - 2023-09-21 09:08:10 --> Table 'studentdb.table_student' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `Table_Student`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\StudentController.php(20): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 09:25:30 --> syntax error, unexpected token "/"
+in APPPATH\Views\students.php on line 28.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 3 APPPATH\Controllers\StudentController.php(21): view('students', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 10:15:09 --> Undefined variable $studp
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studp', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(34): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 10:37:02 --> Invalid file: "hehe.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('hehe.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('hehe', [], true)
+ 3 APPPATH\Controllers\StudentController.php(34): view('hehe')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 10:41:15 --> include(info.php): Failed to open stream: No such file or directory
+in APPPATH\Views\students.php on line 2.
+ 1 APPPATH\Views\students.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(info.php): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 2)
+ 2 APPPATH\Views\students.php(2): include()
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(34): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 10:55:31 --> include(info.html): Failed to open stream: No such file or directory
+in APPPATH\Views\students.php on line 2.
+ 1 APPPATH\Views\students.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(info.html): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 2)
+ 2 APPPATH\Views\students.php(2): include()
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 10:58:29 --> Undefined variable $students
+in APPPATH\Views\info.php on line 17.
+ 1 APPPATH\Views\info.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\laragon\\www\\Studentfile\\app\\Views\\info.php', 17)
+ 2 APPPATH\Views\students.php(2): include('C:\\laragon\\www\\Studentfile\\app\\Views\\info.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 10:59:10 --> Undefined variable $students
+in APPPATH\Views\info.php on line 17.
+ 1 APPPATH\Views\info.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\laragon\\www\\Studentfile\\app\\Views\\info.php', 17)
+ 2 APPPATH\Views\students.php(2): include('C:\\laragon\\www\\Studentfile\\app\\Views\\info.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 10:59:13 --> Undefined variable $students
+in APPPATH\Views\info.php on line 17.
+ 1 APPPATH\Views\info.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\laragon\\www\\Studentfile\\app\\Views\\info.php', 17)
+ 2 APPPATH\Views\students.php(2): include('C:\\laragon\\www\\Studentfile\\app\\Views\\info.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:00:08 --> Undefined variable $students
+in APPPATH\Views\info.php on line 17.
+ 1 APPPATH\Views\info.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\laragon\\www\\Studentfile\\app\\Views\\info.php', 17)
+ 2 APPPATH\Views\students.php(2): include('C:\\laragon\\www\\Studentfile\\app\\Views\\info.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:00:09 --> Undefined variable $students
+in APPPATH\Views\info.php on line 17.
+ 1 APPPATH\Views\info.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\laragon\\www\\Studentfile\\app\\Views\\info.php', 17)
+ 2 APPPATH\Views\students.php(2): include('C:\\laragon\\www\\Studentfile\\app\\Views\\info.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:00:10 --> Undefined variable $students
+in APPPATH\Views\info.php on line 17.
+ 1 APPPATH\Views\info.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\laragon\\www\\Studentfile\\app\\Views\\info.php', 17)
+ 2 APPPATH\Views\students.php(2): include('C:\\laragon\\www\\Studentfile\\app\\Views\\info.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:00:41 --> Undefined variable $studs
+in APPPATH\Views\info.php on line 17.
+ 1 APPPATH\Views\info.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\info.php', 17)
+ 2 APPPATH\Views\students.php(2): include('C:\\laragon\\www\\Studentfile\\app\\Views\\info.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:00:42 --> Undefined variable $studs
+in APPPATH\Views\info.php on line 17.
+ 1 APPPATH\Views\info.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\info.php', 17)
+ 2 APPPATH\Views\students.php(2): include('C:\\laragon\\www\\Studentfile\\app\\Views\\info.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:01:16 --> Undefined variable $studs
+in APPPATH\Views\info.php on line 19.
+ 1 APPPATH\Views\info.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\info.php', 19)
+ 2 APPPATH\Views\students.php(2): include('C:\\laragon\\www\\Studentfile\\app\\Views\\info.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:02:09 --> include(info.php): Failed to open stream: No such file or directory
+in APPPATH\Views\students.php on line 2.
+ 1 APPPATH\Views\students.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(info.php): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 2)
+ 2 APPPATH\Views\students.php(2): include()
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:02:20 --> Undefined variable $sts
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sts', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:02:56 --> Undefined variable $sts
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sts', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:02:58 --> Undefined variable $sts
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sts', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:02:58 --> Undefined variable $sts
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sts', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:03:37 --> Undefined variable $students
+in APPPATH\Views\students.php on line 38.
+ 1 APPPATH\Views\students.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 38)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:03:53 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 38.
+ 1 APPPATH\Views\students.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 38)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:03:54 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 38.
+ 1 APPPATH\Views\students.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 38)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:05:48 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:05:49 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:06:20 --> Class "App\Models\StudentModels" not found
+in APPPATH\Controllers\StudentController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\StudentController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:06:54 --> Class "App\Models\StudentModelsss" not found
+in APPPATH\Controllers\StudentController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\StudentController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:08:43 --> Class "App\Models\StudModel" not found
+in APPPATH\Controllers\StudentController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\StudentController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:09:58 --> Class "App\Models\StudModel" not found
+in APPPATH\Controllers\StudentController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\StudentController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:11:51 --> Class "App\Models\StudModel" not found
+in APPPATH\Controllers\StudentController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:12:53 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:13:02 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:13:02 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:13:04 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:13:44 --> Undefined array key "section"
+in APPPATH\Views\students.php on line 41.
+ 1 APPPATH\Views\students.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "section"', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 41)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:16:49 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(36): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:19:02 --> Class "App\Controllers\App\Models\StudentModel" not found
+in APPPATH\Controllers\StudentController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\StudentController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:19:43 --> Class "App\Controllers\StudModel2" not found
+in APPPATH\Controllers\StudentController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:19:55 --> Class "App\Controllers\StudModel2" not found
+in APPPATH\Controllers\StudentController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:19:56 --> Class "App\Controllers\StudModel2" not found
+in APPPATH\Controllers\StudentController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:19:56 --> Class "App\Controllers\StudModel2" not found
+in APPPATH\Controllers\StudentController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:20:41 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:20:55 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:20:56 --> Undefined variable $studs
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $studs', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:21:09 --> Undefined variable $main
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $main', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:21:42 --> Undefined variable $main
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $main', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:21:43 --> Undefined variable $main
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $main', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:21:43 --> Undefined variable $main
+in APPPATH\Views\students.php on line 40.
+ 1 APPPATH\Views\students.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $main', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 40)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:21:57 --> Undefined array key "StudName"
+in APPPATH\Views\students.php on line 43.
+ 1 APPPATH\Views\students.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "StudName"', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 43)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:22:09 --> Undefined variable $student
+in APPPATH\Views\students.php on line 53.
+ 1 APPPATH\Views\students.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $student', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 53)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:22:10 --> Undefined variable $student
+in APPPATH\Views\students.php on line 53.
+ 1 APPPATH\Views\students.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $student', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 53)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:22:11 --> Undefined variable $student
+in APPPATH\Views\students.php on line 53.
+ 1 APPPATH\Views\students.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $student', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 53)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:22:11 --> Undefined variable $student
+in APPPATH\Views\students.php on line 53.
+ 1 APPPATH\Views\students.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $student', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 53)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:22:43 --> Undefined variable $student
+in APPPATH\Views\students.php on line 53.
+ 1 APPPATH\Views\students.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $student', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 53)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:22:44 --> Undefined variable $student
+in APPPATH\Views\students.php on line 53.
+ 1 APPPATH\Views\students.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $student', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 53)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:23:58 --> Undefined variable $student
+in APPPATH\Views\students.php on line 24.
+ 1 APPPATH\Views\students.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $student', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:23:59 --> Undefined variable $student
+in APPPATH\Views\students.php on line 24.
+ 1 APPPATH\Views\students.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $student', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [...], true)
+ 5 APPPATH\Controllers\StudentController.php(37): view('students', [...], [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 11:28:28 --> Undefined variable $main
+in APPPATH\Views\info.php on line 19.
+ 1 APPPATH\Views\info.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $main', 'C:\\laragon\\www\\Studentfile\\app\\Views\\info.php', 19)
+ 2 APPPATH\Views\students.php(2): include('C:\\laragon\\www\\Studentfile\\app\\Views\\info.php')
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 6 APPPATH\Controllers\StudentController.php(37): view('students', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->student()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:07:21 --> Too few arguments to function App\Controllers\StudentController::edit(), 0 passed in C:\laragon\www\Studentfile\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\StudentController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:07:53 --> Undefined variable $main
+in APPPATH\Views\students.php on line 42.
+ 1 APPPATH\Views\students.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $main', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 42)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(45): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->edit()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:13:27 --> Trying to access array offset on value of type null
+in APPPATH\Views\students.php on line 24.
+ 1 APPPATH\Views\students.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\Studentfile\\app\\Views\\students.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Studentfile\\app\\Views\\students.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('students', [], true)
+ 5 APPPATH\Controllers\StudentController.php(46): view('students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->edit()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:31:16 --> Too few arguments to function App\Controllers\StudentController::delete(), 0 passed in C:\laragon\www\Studentfile\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\StudentController.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:32:18 --> Too few arguments to function App\Controllers\StudentController::delete(), 0 passed in C:\laragon\www\Studentfile\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\StudentController.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:32:20 --> Too few arguments to function App\Controllers\StudentController::delete(), 0 passed in C:\laragon\www\Studentfile\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\StudentController.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:32:25 --> Too few arguments to function App\Controllers\StudentController::delete(), 0 passed in C:\laragon\www\Studentfile\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\StudentController.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:32:28 --> Too few arguments to function App\Controllers\StudentController::delete(), 0 passed in C:\laragon\www\Studentfile\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\StudentController.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->delete()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:40:39 --> Class "3" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:41:47 --> Class "1" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:46:32 --> Class "" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:46:43 --> Class "" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:47:42 --> Class "" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:47:48 --> Class "" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:49:11 --> Class "" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:51:07 --> Class "" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:51:16 --> Class "1" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:52:20 --> Class "1" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:52:24 --> Class "1" not found
+in APPPATH\Controllers\StudentController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
+CRITICAL - 2023-09-21 12:56:53 --> Undefined variable $id
+in APPPATH\Controllers\StudentController.php on line 32.
+ 1 APPPATH\Controllers\StudentController.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\laragon\\www\\Studentfile\\app\\Controllers\\StudentController.php', 32)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\StudentController->save()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\StudentController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Studentfile\\public\\index.php')
